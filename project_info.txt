@@ -1,0 +1,4 @@
+Database user name = Vaishnavi
+pass = pass@123
+
+AWS security token = qwertyuioplkjhgfdsazxcvbnm
